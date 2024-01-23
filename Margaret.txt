@@ -1,0 +1,7 @@
+	Chair
+	A_book
+	Table
+	Apple_iPhone
+	Umbrella
+	Hammer
+END
